@@ -1,0 +1,59 @@
+main {
+    margin-top: -8rem;
+
+    .form {
+        background-color: #ffefe4;
+
+        .form--links {
+            a {
+                .image-cropper {
+                    margin-left: auto;
+                    margin-right: auto;
+                    width: 200px;
+                    height: 200px;
+                    position: relative;
+                    overflow: hidden;
+                    border-radius: 50%;
+                }
+    
+                img {
+                    display: inline;
+                    margin: 0 auto;
+                    height: 100%;
+                    width: auto;
+                    filter: grayscale(1);
+                }
+    
+                h2 {
+                    color: #f76f49;
+                    text-transform: lowercase;
+                }
+
+                &:hover,
+                &:focus {
+                    text-decoration: none;
+
+                    & > figure > img {
+                        filter: grayscale(0);
+                    }
+                }
+            }
+        }
+    }
+
+    @media(max-width: 991px) {
+        margin-top: -3rem;
+    }
+}
+
+footer {
+    a {
+        color: #3D4849;
+        text-decoration: underline;
+
+        &:hover,
+        &:focus {
+            color: #f77a10;
+        }
+    }
+}

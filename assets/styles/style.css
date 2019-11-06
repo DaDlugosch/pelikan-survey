@@ -1,0 +1,56 @@
+main {
+  margin-top: -8rem;
+}
+
+main .form {
+  background-color: #ffefe4;
+}
+
+main .form .form--links a .image-cropper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+  position: relative;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+main .form .form--links a img {
+  display: inline;
+  margin: 0 auto;
+  height: 100%;
+  width: auto;
+  -webkit-filter: grayscale(1);
+          filter: grayscale(1);
+}
+
+main .form .form--links a h2 {
+  color: #f76f49;
+  text-transform: lowercase;
+}
+
+main .form .form--links a:hover, main .form .form--links a:focus {
+  text-decoration: none;
+}
+
+main .form .form--links a:hover > figure > img, main .form .form--links a:focus > figure > img {
+  -webkit-filter: grayscale(0);
+          filter: grayscale(0);
+}
+
+@media (max-width: 991px) {
+  main {
+    margin-top: -3rem;
+  }
+}
+
+footer a {
+  color: #3D4849;
+  text-decoration: underline;
+}
+
+footer a:hover, footer a:focus {
+  color: #f77a10;
+}
+/*# sourceMappingURL=style.css.map */
