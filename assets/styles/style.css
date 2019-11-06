@@ -1,4 +1,4 @@
-header img {
+header .hero-image {
   height: 500px;
   -o-object-fit: cover;
      object-fit: cover;
