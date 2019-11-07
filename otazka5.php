@@ -23,7 +23,7 @@
                     <figure class="image-cropper">
                         <img src="assets/images/sandale.png" alt="Sandále">
                     </figure>
-                    <h2 class="text-center">Ponožky v sandáloch</h2>
+                    <h2 class="text-center">Ponožky v&nbsp;sandáloch</h2>
                 </a>
                 <a href="javascript:void(0)" onclick="window.location.href='end.php';" class="col-lg-3 d-flex flex-column mb-4 mb-lg-0">
                     <figure class="image-cropper">

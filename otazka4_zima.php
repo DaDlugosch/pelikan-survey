@@ -25,7 +25,7 @@
                     </figure>
                     <h2 class="text-center">Burrito</h2>
                 </a>
-                <a href="https://google.com" target="_blank" onclick="window.location.href='otazka5_zima_noodle.php';" class="col-lg-3 d-flex flex-column mb-4 mb-lg-0">
+                <a href="javascript:void(0)" onclick="window.location.href='otazka5_zima_noodle.php';" class="col-lg-3 d-flex flex-column mb-4 mb-lg-0">
                     <figure class="image-cropper">
                         <img src="assets/images/noodle.png" alt="Noodle">
                     </figure>
