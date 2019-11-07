@@ -12,7 +12,7 @@
                     <br>
                     Zlá správa je, že za 14 dní to asi nestihneš. Tá dobrá je, že náš kvíz ti ukáže kde začať.
                 </p>
-                <a href="javascript:void(0)" onclick="window.location.href='otazka1.php';" class="mx-auto my-4">
+                <a href="javascript:void(0)" onclick="window.location.href='otazka1.php';" class="mx-auto my-4 pelikan-button">
                     Idem nato
                 </a>
                 <p class="col-12 text-center">Odpovedz na 5 jednoduchých otázok, ktoré odhalia tvoje tajné cestovateľské kombinácie.</p>
