@@ -4,33 +4,15 @@
     <div class="container">
         <section class="form col-lg-12">
             <div class="row">
-                <h1 class="col-lg-12 text-center py-3">Ak by som bol zviera bol by som:</h1>
+                <h1 class="col-lg-12 text-center py-3">Ako bude vyzerať tvoja vysnívaná multicity?</h1>
             </div>
             <div class="row form--links py-4">
-                <a href="javascript:void(0)" onclick="window.location.href='otazka2.php';" class="col-lg-3 d-flex flex-column mb-4 mb-lg-0">
-                    <figure class="image-cropper">
-                        <img src="assets/images/delfin.png" alt="Delfín">
-                    </figure>
-                    <h2 class="text-center">Delfín</h2>
+                <p class="col-12">Si telom aj dušou cestovateľ a najradšej by si počas dvojtýždňovej dovolenky precestoval/a celý svet?</p>
+                <p class="col-12">Zlá správa je, že za 14 dní to asi nestihneš. Tá dobrá je, že náš kvíz ti ukáže kde začať.</p>
+                <a href="javascript:void(0)" onclick="window.location.href='otazka1.php';" class="col-lg-3 d-flex flex-column mb-4 mb-lg-0">
+                    Idem nato
                 </a>
-                <a href="javascript:void(0)" onclick="window.location.href='otazka2.php';" class="col-lg-3 d-flex flex-column mb-4 mb-lg-0">
-                    <figure class="image-cropper">
-                        <img src="assets/images/opica.png" alt="Opica">
-                    </figure>
-                    <h2 class="text-center">Opica</h2>
-                </a>
-                <a href="javascript:void(0)" onclick="window.location.href='otazka2.php';" class="col-lg-3 d-flex flex-column mb-4 mb-lg-0">
-                    <figure class="image-cropper">
-                        <img src="assets/images/maco.png" alt="Grizly">
-                    </figure>
-                    <h2 class="text-center">Grizly</h2>
-                </a>
-                <a href="javascript:void(0)" onclick="window.location.href='otazka2.php';" class="col-lg-3 d-flex flex-column mb-4 mb-lg-0">
-                    <figure class="image-cropper">
-                        <img src="assets/images/pigon.png" alt="Holub">
-                    </figure>
-                    <h2 class="text-center">Holub</h2>
-                </a>
+                <p class="col-12">Odpovedz na 5 jednoduchých otázok, ktoré odhalia tvoje tajné cestovateľské kombinácie.</p>
             </div>
         </section>
     </div>
