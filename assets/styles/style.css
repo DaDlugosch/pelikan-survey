@@ -55,8 +55,8 @@ main .form .form--links a {
 main .form .form--links a .image-cropper {
   margin-left: auto;
   margin-right: auto;
-  width: 180px;
-  height: 180px;
+  width: 150px;
+  height: 150px;
   position: relative;
   overflow: hidden;
   border-radius: 50%;
