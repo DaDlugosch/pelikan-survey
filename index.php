@@ -9,7 +9,6 @@
             <div class="row form--links pb-4">
                 <p class="col-12 my-0 text-center">
                     Si telom aj dušou cestovateľ a najradšej by si počas dvojtýždňovej dovolenky precestoval/a celý svet?
-                    <br>
                     Zlá správa je, že za 14 dní to asi nestihneš. Tá dobrá je, že náš kvíz ti ukáže kde začať.
                 </p>
                 <a href="javascript:void(0)" onclick="window.location.href='otazka1.php';" class="pelikan-button">
