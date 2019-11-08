@@ -1,6 +1,6 @@
 <?php include "head.html" ?>
 <?php include "header.html" ?>
-<main>
+<main class="end-main">
     <div class="container">
         <section class="form col-lg-12">
             <div class="row">

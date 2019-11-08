@@ -18,6 +18,10 @@ main {
   margin-top: -20rem;
 }
 
+main.end-main {
+  margin-top: -15rem;
+}
+
 main .pelikan-button {
   background-color: #F77A10;
   border-radius: 4px;
@@ -67,10 +71,6 @@ main .form .form--links a img {
   margin: 0 auto;
   height: 100%;
   width: auto;
-  -webkit-transition: -webkit-transform .5s ease;
-  transition: -webkit-transform .5s ease;
-  transition: transform .5s ease;
-  transition: transform .5s ease, -webkit-transform .5s ease;
 }
 
 main .form .form--links a h2 {
@@ -81,11 +81,6 @@ main .form .form--links a h2 {
 
 main .form .form--links a:hover, main .form .form--links a:focus {
   text-decoration: none;
-}
-
-main .form .form--links a:hover > figure > img, main .form .form--links a:focus > figure > img {
-  -webkit-transform: scale(1.2);
-          transform: scale(1.2);
 }
 
 @media (max-width: 991px) {
