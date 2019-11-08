@@ -23,13 +23,13 @@
                     <figure class="image-cropper">
                         <img src="assets/images/sandale.png" alt="Sandále">
                     </figure>
-                    <h2 class="text-center">Ponožky v&nbsp;sandáloch</h2>
+                    <h2 class="text-center">Ponožky<br>v&nbsp;sandáloch</h2>
                 </a>
                 <a href="https://www.pelikan.sk/sk/multicity/newyork-miami" target="_blank" onclick="window.location.href='end.php';" class="d-flex flex-column mb-4 mb-lg-0">
                     <figure class="image-cropper">
                         <img src="assets/images/timberlandy.png" alt="Turistické topánky">
                     </figure>
-                    <h2 class="text-center">Turistické topánky</h2>
+                    <h2 class="text-center">Turistické<br>topánky</h2>
                 </a>
             </div>
         </section>
