@@ -22,7 +22,7 @@ main .pelikan-button {
   line-height: 1rem;
   text-transform: uppercase;
   margin: 40px auto;
-  padding: 17px 27px;
+  padding: 17px 27px !important;
   color: #FFF;
   border: 0;
 }
