@@ -6,7 +6,7 @@
             <div class="row">
                 <h1 class="col-lg-12 text-center py-3">Najradšej relaxujem pri:</h1>
             </div>
-            <div class="row form--links py-4 mx-3 justify-content-around">
+            <div class="row form--links py-4 mx-3 justify-content-center">
                 <a href="javascript:void(0)" onclick="window.location.href='otazka3.php';" class="d-flex flex-column mb-4 mb-lg-0">
                     <figure class="image-cropper">
                         <img src="assets/images/kava.png" alt="Káva">

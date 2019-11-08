@@ -6,7 +6,7 @@
             <div class="row">
                 <h1 class="col-lg-12 text-center py-3">No a priznaj sa, čo máš na nohách?</h1>
             </div>
-            <div class="row form--links py-4 mx-3 justify-content-around">
+            <div class="row form--links py-4 mx-3 justify-content-center">
                 <a href="https://www.pelikan.sk/sk/multicity/riodejaneiro-karneval-iguazu" target="_blank" onclick="window.location.href='end.php';" class="d-flex flex-column mb-4 mb-lg-0">
                     <figure class="image-cropper">
                         <img src="assets/images/lodicky.png" alt="Lodičky">
