@@ -45,11 +45,13 @@ main {
 
         .form--links {
             a {
+                padding: 0 15px;
+                
                 .image-cropper {
                     margin-left: auto;
                     margin-right: auto;
-                    width: 200px;
-                    height: 200px;
+                    width: 180px;
+                    height: 180px;
                     position: relative;
                     overflow: hidden;
                     border-radius: 50%;
