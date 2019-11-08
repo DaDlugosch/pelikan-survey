@@ -5,6 +5,10 @@ body {
     font-weight: 400;
 }
 
+figure {
+    margin-bottom: 0;
+}
+
 header {
     .hero-image {
         height: 500px;
@@ -66,6 +70,7 @@ main {
                 }
     
                 h2 {
+                    margin-top: 2rem;
                     color: #f76f49;
                     text-transform: lowercase;
                 }

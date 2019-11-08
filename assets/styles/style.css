@@ -4,6 +4,10 @@ body {
   font-weight: 400;
 }
 
+figure {
+  margin-bottom: 0;
+}
+
 header .hero-image {
   height: 500px;
   -o-object-fit: cover;
@@ -70,6 +74,7 @@ main .form .form--links a img {
 }
 
 main .form .form--links a h2 {
+  margin-top: 2rem;
   color: #f76f49;
   text-transform: lowercase;
 }
