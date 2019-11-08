@@ -1,3 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400&display=swap&subset=latin-ext");
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
 header .hero-image {
   height: 500px;
   -o-object-fit: cover;
@@ -15,6 +21,7 @@ main .pelikan-button {
   font-size: 1rem;
   line-height: 1rem;
   text-transform: uppercase;
+  margin: 40px auto;
   padding: 17px 27px;
   color: #FFF;
   border: 0;
@@ -22,6 +29,19 @@ main .pelikan-button {
 
 main .form {
   background-color: #ffefe4;
+  border-radius: 6px;
+  -webkit-filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.15));
+          filter: drop-shadow(0 10px 30px rgba(0, 0, 0, 0.15));
+}
+
+main .form h1 {
+  margin-top: 40px;
+}
+
+main .form p {
+  padding: 0 15%;
+  font-weight: 300;
+  font-size: 20px;
 }
 
 main .form .form--links a .image-cropper {
